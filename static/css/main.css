@@ -1,0 +1,4 @@
+body,html{height:100%}
+body{padding-bottom:40px}
+.dronecover{background:url(../img/background.jpg) center no-repeat fixed #e9ecef}
+#map{width:100px;height:100px;min-height:calc(100vh - 90px);padding:0;min-width:100%;display:block;border:2px solid #cfcfcf}
